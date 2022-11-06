@@ -39,7 +39,7 @@ class TriangleTest extends BaseIOTest {
     void printTrianglePrintsMin() {
         String expected = """
                 8 \s
-                88\s
+                88 \s
                 888
                 """;
 
